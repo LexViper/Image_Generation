@@ -1,6 +1,3 @@
-Here’s an updated version of your README with the "How to Use" section formatted as bullet points instead of a single line. I’ve kept everything else intact and structured it clearly for readability.
-
----
 
 # 🖼️ Image Generation Project  
 
@@ -20,8 +17,8 @@ An AI-powered image generation project using APIs and Gradio for an interactive 
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/LexViper/image-generation.git
-   cd image-generation
+   git clone https://github.com/LexViper/Image_Generation.git
+   cd Image_Generation
    ```
 
 2. **Install dependencies:**  
@@ -46,7 +43,7 @@ An AI-powered image generation project using APIs and Gradio for an interactive 
 ## 💻 **How to Run**  
 1. Start the Gradio interface:  
    ```bash
-   python app.py
+   python images.py or images.ipynb
    ```  
 2. Open the local link provided by Gradio in your browser.  
 
@@ -70,7 +67,9 @@ An AI-powered image generation project using APIs and Gradio for an interactive 
 
 ## 🌐 **Demo**  
 
-Check out the working demo [here](#).  
+Check out the working demo below:  
+
+![Demo Screenshot](https://github.com/LexViper/Image_Generation/blob/main/Images/Interface%20v1.png)  
 
 ---
 
@@ -86,5 +85,3 @@ Check out the working demo [here](#).
 For any queries or suggestions, reach out at thisisabhay.c@gmail.com  
 
 ---
-
-This version separates the "How to Use" section into two subsections ("Image Generation" and "Image Transformation") with bullet points for each step, making it easier to read and follow. You can copy this directly into your GitHub README.md file! Let me know if you’d like further tweaks.
