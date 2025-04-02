@@ -1,0 +1,5 @@
+gradio
+requests
+Pillow
+numpy
+python-dotenv
