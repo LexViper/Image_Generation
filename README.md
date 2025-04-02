@@ -69,7 +69,7 @@ An AI-powered image generation project using APIs and Gradio for an interactive 
 
 Check out the working demo below:  
 
-![Demo Screenshot](https://github.com/LexViper/Image_Generation/blob/main/Images/Interface%20v1.png)  
+![Demo Screenshot](https://github.com/LexViper/Image_Generation/raw/main/Images/Interface%20v1.png)  
 
 ---
 
@@ -80,8 +80,16 @@ Check out the working demo below:
 
 ---
 
+## 👥 **Contributors**  
+Big thanks to the following awesome people who helped make this project happen:  
+- [Harsh Pandit](https://github.com/ItsHarsh-Pandit)  
+- [Aryan Kaminwar](https://github.com/ARI-create193)  
+
+---
+
 ## 📧 **Contact**  
 
 For any queries or suggestions, reach out at thisisabhay.c@gmail.com  
 
----
+
+
